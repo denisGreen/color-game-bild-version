@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/denisGreen/color-game-build-version/static/css/main.86c6ee7a.chunk.css",
-    "main.js": "/denisGreen/color-game-build-version/static/js/main.f6ecd20d.chunk.js",
-    "main.js.map": "/denisGreen/color-game-build-version/static/js/main.f6ecd20d.chunk.js.map",
-    "runtime-main.js": "/denisGreen/color-game-build-version/static/js/runtime-main.87d57119.js",
-    "runtime-main.js.map": "/denisGreen/color-game-build-version/static/js/runtime-main.87d57119.js.map",
-    "static/js/2.94e503d2.chunk.js": "/denisGreen/color-game-build-version/static/js/2.94e503d2.chunk.js",
-    "static/js/2.94e503d2.chunk.js.map": "/denisGreen/color-game-build-version/static/js/2.94e503d2.chunk.js.map",
-    "index.html": "/denisGreen/color-game-build-version/index.html",
-    "precache-manifest.c8c12b46cfe88e1f745d1d354faf88f2.js": "/denisGreen/color-game-build-version/precache-manifest.c8c12b46cfe88e1f745d1d354faf88f2.js",
-    "service-worker.js": "/denisGreen/color-game-build-version/service-worker.js",
-    "static/css/main.86c6ee7a.chunk.css.map": "/denisGreen/color-game-build-version/static/css/main.86c6ee7a.chunk.css.map",
-    "static/js/2.94e503d2.chunk.js.LICENSE.txt": "/denisGreen/color-game-build-version/static/js/2.94e503d2.chunk.js.LICENSE.txt"
+    "main.css": "/color-game-build-version/static/css/main.86c6ee7a.chunk.css",
+    "main.js": "/color-game-build-version/static/js/main.f6ecd20d.chunk.js",
+    "main.js.map": "/color-game-build-version/static/js/main.f6ecd20d.chunk.js.map",
+    "runtime-main.js": "/color-game-build-version/static/js/runtime-main.f5b7aadd.js",
+    "runtime-main.js.map": "/color-game-build-version/static/js/runtime-main.f5b7aadd.js.map",
+    "static/js/2.94e503d2.chunk.js": "/color-game-build-version/static/js/2.94e503d2.chunk.js",
+    "static/js/2.94e503d2.chunk.js.map": "/color-game-build-version/static/js/2.94e503d2.chunk.js.map",
+    "index.html": "/color-game-build-version/index.html",
+    "precache-manifest.59516d452973cad57792becc0f257c98.js": "/color-game-build-version/precache-manifest.59516d452973cad57792becc0f257c98.js",
+    "service-worker.js": "/color-game-build-version/service-worker.js",
+    "static/css/main.86c6ee7a.chunk.css.map": "/color-game-build-version/static/css/main.86c6ee7a.chunk.css.map",
+    "static/js/2.94e503d2.chunk.js.LICENSE.txt": "/color-game-build-version/static/js/2.94e503d2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.87d57119.js",
+    "static/js/runtime-main.f5b7aadd.js",
     "static/js/2.94e503d2.chunk.js",
     "static/css/main.86c6ee7a.chunk.css",
     "static/js/main.f6ecd20d.chunk.js"
