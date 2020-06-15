@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/color-game-build-version/static/css/main.86c6ee7a.chunk.css",
-    "main.js": "/color-game-build-version/static/js/main.f6ecd20d.chunk.js",
-    "main.js.map": "/color-game-build-version/static/js/main.f6ecd20d.chunk.js.map",
+    "main.js": "/color-game-build-version/static/js/main.70cc0d5e.chunk.js",
+    "main.js.map": "/color-game-build-version/static/js/main.70cc0d5e.chunk.js.map",
     "runtime-main.js": "/color-game-build-version/static/js/runtime-main.f5b7aadd.js",
     "runtime-main.js.map": "/color-game-build-version/static/js/runtime-main.f5b7aadd.js.map",
-    "static/js/2.94e503d2.chunk.js": "/color-game-build-version/static/js/2.94e503d2.chunk.js",
-    "static/js/2.94e503d2.chunk.js.map": "/color-game-build-version/static/js/2.94e503d2.chunk.js.map",
+    "static/js/2.59cd6854.chunk.js": "/color-game-build-version/static/js/2.59cd6854.chunk.js",
+    "static/js/2.59cd6854.chunk.js.map": "/color-game-build-version/static/js/2.59cd6854.chunk.js.map",
     "index.html": "/color-game-build-version/index.html",
-    "precache-manifest.59516d452973cad57792becc0f257c98.js": "/color-game-build-version/precache-manifest.59516d452973cad57792becc0f257c98.js",
+    "precache-manifest.62d410682ccd3f0213516aeb87d232cc.js": "/color-game-build-version/precache-manifest.62d410682ccd3f0213516aeb87d232cc.js",
     "service-worker.js": "/color-game-build-version/service-worker.js",
     "static/css/main.86c6ee7a.chunk.css.map": "/color-game-build-version/static/css/main.86c6ee7a.chunk.css.map",
-    "static/js/2.94e503d2.chunk.js.LICENSE.txt": "/color-game-build-version/static/js/2.94e503d2.chunk.js.LICENSE.txt"
+    "static/js/2.59cd6854.chunk.js.LICENSE.txt": "/color-game-build-version/static/js/2.59cd6854.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f5b7aadd.js",
-    "static/js/2.94e503d2.chunk.js",
+    "static/js/2.59cd6854.chunk.js",
     "static/css/main.86c6ee7a.chunk.css",
-    "static/js/main.f6ecd20d.chunk.js"
+    "static/js/main.70cc0d5e.chunk.js"
   ]
 }
