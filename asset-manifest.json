@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/color-game-build-version/static/css/main.20a3ec6a.chunk.css",
-    "main.js": "/color-game-build-version/static/js/main.26dd800e.chunk.js",
-    "main.js.map": "/color-game-build-version/static/js/main.26dd800e.chunk.js.map",
+    "main.css": "/color-game-build-version/static/css/main.afee6a21.chunk.css",
+    "main.js": "/color-game-build-version/static/js/main.821836f6.chunk.js",
+    "main.js.map": "/color-game-build-version/static/js/main.821836f6.chunk.js.map",
     "runtime-main.js": "/color-game-build-version/static/js/runtime-main.f5b7aadd.js",
     "runtime-main.js.map": "/color-game-build-version/static/js/runtime-main.f5b7aadd.js.map",
     "static/js/2.7abda1c9.chunk.js": "/color-game-build-version/static/js/2.7abda1c9.chunk.js",
     "static/js/2.7abda1c9.chunk.js.map": "/color-game-build-version/static/js/2.7abda1c9.chunk.js.map",
     "index.html": "/color-game-build-version/index.html",
-    "precache-manifest.4f1e016cb982a9b970554f224d2f6b1e.js": "/color-game-build-version/precache-manifest.4f1e016cb982a9b970554f224d2f6b1e.js",
+    "precache-manifest.2bbfb0bf132e59890dc47c5456382a6e.js": "/color-game-build-version/precache-manifest.2bbfb0bf132e59890dc47c5456382a6e.js",
     "service-worker.js": "/color-game-build-version/service-worker.js",
-    "static/css/main.20a3ec6a.chunk.css.map": "/color-game-build-version/static/css/main.20a3ec6a.chunk.css.map",
+    "static/css/main.afee6a21.chunk.css.map": "/color-game-build-version/static/css/main.afee6a21.chunk.css.map",
     "static/js/2.7abda1c9.chunk.js.LICENSE.txt": "/color-game-build-version/static/js/2.7abda1c9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f5b7aadd.js",
     "static/js/2.7abda1c9.chunk.js",
-    "static/css/main.20a3ec6a.chunk.css",
-    "static/js/main.26dd800e.chunk.js"
+    "static/css/main.afee6a21.chunk.css",
+    "static/js/main.821836f6.chunk.js"
   ]
 }
