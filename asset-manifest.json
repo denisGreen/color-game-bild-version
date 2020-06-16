@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/color-game-build-version/static/css/main.86c6ee7a.chunk.css",
-    "main.js": "/color-game-build-version/static/js/main.70cc0d5e.chunk.js",
-    "main.js.map": "/color-game-build-version/static/js/main.70cc0d5e.chunk.js.map",
+    "main.css": "/color-game-build-version/static/css/main.66272aa6.chunk.css",
+    "main.js": "/color-game-build-version/static/js/main.cdc4c05b.chunk.js",
+    "main.js.map": "/color-game-build-version/static/js/main.cdc4c05b.chunk.js.map",
     "runtime-main.js": "/color-game-build-version/static/js/runtime-main.f5b7aadd.js",
     "runtime-main.js.map": "/color-game-build-version/static/js/runtime-main.f5b7aadd.js.map",
-    "static/js/2.59cd6854.chunk.js": "/color-game-build-version/static/js/2.59cd6854.chunk.js",
-    "static/js/2.59cd6854.chunk.js.map": "/color-game-build-version/static/js/2.59cd6854.chunk.js.map",
+    "static/js/2.7abda1c9.chunk.js": "/color-game-build-version/static/js/2.7abda1c9.chunk.js",
+    "static/js/2.7abda1c9.chunk.js.map": "/color-game-build-version/static/js/2.7abda1c9.chunk.js.map",
     "index.html": "/color-game-build-version/index.html",
-    "precache-manifest.62d410682ccd3f0213516aeb87d232cc.js": "/color-game-build-version/precache-manifest.62d410682ccd3f0213516aeb87d232cc.js",
+    "precache-manifest.02c77a45b0d513d32b2e93790a7c5f98.js": "/color-game-build-version/precache-manifest.02c77a45b0d513d32b2e93790a7c5f98.js",
     "service-worker.js": "/color-game-build-version/service-worker.js",
-    "static/css/main.86c6ee7a.chunk.css.map": "/color-game-build-version/static/css/main.86c6ee7a.chunk.css.map",
-    "static/js/2.59cd6854.chunk.js.LICENSE.txt": "/color-game-build-version/static/js/2.59cd6854.chunk.js.LICENSE.txt"
+    "static/css/main.66272aa6.chunk.css.map": "/color-game-build-version/static/css/main.66272aa6.chunk.css.map",
+    "static/js/2.7abda1c9.chunk.js.LICENSE.txt": "/color-game-build-version/static/js/2.7abda1c9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f5b7aadd.js",
-    "static/js/2.59cd6854.chunk.js",
-    "static/css/main.86c6ee7a.chunk.css",
-    "static/js/main.70cc0d5e.chunk.js"
+    "static/js/2.7abda1c9.chunk.js",
+    "static/css/main.66272aa6.chunk.css",
+    "static/js/main.cdc4c05b.chunk.js"
   ]
 }
